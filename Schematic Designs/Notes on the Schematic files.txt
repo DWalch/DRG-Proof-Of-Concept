@@ -1,0 +1,4 @@
+PNGs of the schematics for both breadboard and schematics are included.
+In order to view the schematic files themselves, you will need to download and install fritzing.
+https://fritzing.org/
+Fritzing is an open-source hardware design software.
